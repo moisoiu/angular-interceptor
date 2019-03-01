@@ -1,6 +1,12 @@
+
+
+
 # Interceptorapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
+
+Also the application is basic, it only has an interceptor which is supposed to track any request and response, but it doesn't "catch" the headers for some unknown reason when the status from server is 400 or 500
+
 
 ## Development server
 
